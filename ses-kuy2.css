@@ -1,0 +1,36 @@
+
+img{
+width: 1180px;
+height: 550px;
+
+}
+
+
+ .banner-card {
+max-width: 100%;
+height: auto;
+}
+.banner-text{
+position:absolute;
+top:25%;
+color: #fff;
+padding: 40px;
+}
+.banner-text h1{
+     color:rgb(94, 139, 20);
+    font-size: 26px;
+    text-transform: uppercase;
+    font-weight: bold;
+    margin-bottom: 5px;
+}
+
+
+.box{
+    
+    width: 1180px;
+    height: 720px;
+    background-color: rgb(214, 169, 102);
+    margin: 10px;
+    border: 5px solid rgb(126, 85, 31)
+}
+
